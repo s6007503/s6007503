@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm currently a year-3 university student, majoring in Computer Science. I'm passionate to explore more about the programming world 😄.
+My favorite hobby is learning Mandarin language and watching Anime.
